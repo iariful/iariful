@@ -1,4 +1,6 @@
-- 👋 This is Ariful Islam. Welcome to my Github.
+Hi there 👋
+
+This is Ariful Islam. Welcome to my Github.
 
 <!---
 iariful/iariful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
