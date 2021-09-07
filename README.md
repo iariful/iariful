@@ -1,6 +1,7 @@
+![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/s960x960/94561499_2583247491935668_2095933277259956224_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGqSdD-Ozmauxv6buFr5c0ROXC00po6cbo5cLTSmjpxui5LDziSnjK6QCFEWvwYfua3ma0A4WBO1tUzsVN__XpX&_nc_ohc=yuIWURW81mwAX_VtMCG&_nc_ht=scontent.fdac14-1.fna&oh=b47e06dd97a3435d44df24574f1c1c97&oe=615BB245)
+
 ### Hi there 👋, my name is Ariful Islam
 #### Web Developer
-![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/s960x960/94561499_2583247491935668_2095933277259956224_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGqSdD-Ozmauxv6buFr5c0ROXC00po6cbo5cLTSmjpxui5LDziSnjK6QCFEWvwYfua3ma0A4WBO1tUzsVN__XpX&_nc_ohc=yuIWURW81mwAX_VtMCG&_nc_ht=scontent.fdac14-1.fna&oh=b47e06dd97a3435d44df24574f1c1c97&oe=615BB245)
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. 
 
