@@ -1,8 +1,25 @@
-Hi there 👋
+### Hi there 👋, my name is Ariful Islam
+#### Web Developer
+![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/s960x960/94561499_2583247491935668_2095933277259956224_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGqSdD-Ozmauxv6buFr5c0ROXC00po6cbo5cLTSmjpxui5LDziSnjK6QCFEWvwYfua3ma0A4WBO1tUzsVN__XpX&_nc_ohc=yuIWURW81mwAX_VtMCG&_nc_ht=scontent.fdac14-1.fna&oh=b47e06dd97a3435d44df24574f1c1c97&oe=615BB245)
 
-This is Ariful Islam. Welcome to my Github.
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. 
 
-<!---
-iariful/iariful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:  HTML / CSS/BOOTSTRAP/JS
+
+- 🌱 I’m currently learning JAVASCRIPT 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iariful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100007513273495)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iariful)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iariful&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iariful)  
+
+![GitHub metrics](https://metrics.lecoq.io/iariful)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iariful)  
+
+![Profile views](https://gpvc.arturio.dev/iariful)  
